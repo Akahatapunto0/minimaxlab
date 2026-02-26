@@ -13,4 +13,4 @@ Lo que fue un desastre es que tenía funciones sueltas sin entender cómo se con
 
 Mi mejor “¡ajá!”
 
-Mi mejor ajá fue entender cómo funciona todo por bloques y que ninguna función está al azar. Me di cuenta de que el 90% del código son comandos pensados para simplificar la ejecución. También comprendí por qué se le llama “lenguaje”: uno crea una palabra y debe darle un significado, y el ejecutable termina siendo c
+Mi mejor ajá fue entender cómo funciona todo por bloques y que ninguna función está al azar. Me di cuenta de que el 90% del código son comandos pensados para simplificar la ejecución. También comprendí por qué se le llama “lenguaje”: uno crea una palabra y debe darle un significado, y el ejecutable termina siendo como una oración formada por palabras que yo mismo inventé. En cierto modo, se parece a lanzar un hechizo.
